@@ -1,3 +1,14 @@
+# Deprecated Package - use ANTLR4 directly instead
+
+This package is out of maintenance and has been superceded by the standard [ANTLR4 package](https://github.com/antlr/antlr4).
+
+You find instructions how to install it here:
+https://github.com/antlr/antlr4/blob/master/doc/getting-started.md
+
+Guidelines how to generate and use TypeScript targets and runtime you can find here:
+https://github.com/antlr/antlr4/blob/master/doc/typescript-target.md
+
+
 # antlr4ts - TypeScript/JavaScript target for ANTLR 4
 
 [![Join the chat at https://gitter.im/tunnelvisionlabs/antlr4ts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tunnelvisionlabs/antlr4ts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
